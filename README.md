@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/LFE5a8Q.png" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Nakulan12/Nakulan12/main/assets/banner.gif" alt="Nakulan's Banner" width="100%"/>
 </p>
+
 
 <!-- Typing SVG Intro -->
 <h1 align="center">
@@ -85,7 +86,7 @@ I'm always open to working on **real-time projects** and participating in **hack
 ---
 
 ## ✨ **Quote of the Day**
-> "The future belongs to those who code today." – **Nakulan R**
+> "The future belongs to those who code today.
 
 <p align="center">
   <i><b>- Embrace technology, embrace innovation.</b></i>
@@ -95,8 +96,7 @@ I'm always open to working on **real-time projects** and participating in **hack
 
 ## 🚀 **Stay Inspired & Keep Coding!**
 <p align="center">
-  <img src="https://i.imgur.com/4JgkF6t.gif" alt="coding-gif" width="300px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="300px"/>
 </p>
-
 ---
 
