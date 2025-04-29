@@ -14,7 +14,7 @@
 ## 👨‍💻 **About Me**  
 I’m **Nakulan R**, a **tech enthusiast** from Sri Krishna Arts and Science College.  
 🚀 Currently diving into **Flutter** & **Firebase Authentication**, and building **real-time apps** with a focus on **design** and **performance**.
-
+    My goal is to leverage my growing expertise in full-stack development, UI/UX design, and cloud technologies to contribute meaningfully to projects that drive positive change.
 🔍 I aim to create **dynamic mobile applications** while contributing to **hackathons** and innovative **real-world projects**.
 
 🌱 **Currently Learning**:
@@ -98,5 +98,4 @@ I'm always open to working on **real-time projects** and participating in **hack
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="300px"/>
 </p>
----
 
