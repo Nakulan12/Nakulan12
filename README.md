@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&color=00FFD9&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nakulan+%F0%9F%91%8B;Flutter+Dev+%7C+UI%2FUX+Designer+%7C+Student;Crafting+Code+with+Creativity" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&color=00FFD9&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nakulan+%F0%9F%91%8B" alt="Typing SVG">
 </h1>
 
 ---
@@ -41,7 +41,7 @@ I’m **Nakulan R**, a **tech enthusiast** from Sri Krishna Arts and Science Col
 ## 🚀 **Featured Projects**
 
 
-### 💼 **HerVoice **  
+### 💼 **HerVoice Platform**  
 A voice-based empowerment platform for marginalized women, including offline support and multilingual UI.  
 🔗 [GitHub Repo](https://github.com/Nakulan12/hervoice-slytherin)
 
@@ -52,6 +52,7 @@ A voice-based empowerment platform for marginalized women, including offline sup
 - **Flutter Animations**
 - **Advanced Firebase Authentication**
 - **Backend/API Integration**
+- **JavaScript**
 
 ---
 
@@ -67,17 +68,35 @@ I'm always open to working on **real-time projects** and participating in **hack
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakulan12&show_icons=true&theme=dark&hide=prs" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakulan12&theme=dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nakulan12&show_icons=true&count_private=true&hide=prs&theme=dark&title_color=00FFD9&icon_color=00FFD9&text_color=FFFFFF&bg_color=0D1117&hide_title=true" alt="GitHub Stats" width="50%" />
 </p>
 
 ---
 
 ## 🖥️ **Top Languages**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulan12&layout=compact&theme=dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulan12&layout=compact&theme=dark&title_color=00FFD9&icon_color=00FFD9&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="50%" />
 </p>
 
 ---
+
+## ✨ **Quote of the Day**
+> "The future belongs to those who code today." – **Nakulan R**
+
+<p align="center">
+  <i><b>- Embrace technology, embrace innovation.</b></i>
+</p>
+
+---
+
+## 🚀 **Stay Inspired & Keep Coding!**
+<p align="center">
+  <img src="https://i.imgur.com/4JgkF6t.gif" alt="coding-gif" width="300px"/>
+</p>
+
+---
+
