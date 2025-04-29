@@ -40,21 +40,10 @@ I’m **Nakulan R**, a **tech enthusiast** from Sri Krishna Arts and Science Col
 
 ## 🚀 **Featured Projects**
 
-### 🔒 **AuthEase**  
-A secure Flutter app for login/signup with Firebase Authentication, featuring OTP-based login.  
-🔗 [GitHub Repo](https://github.com/Nakulan12/authease)
 
----
-
-### 🌱 **EcoTracker**  
-A mobile/web app that tracks and calculates your carbon footprint, built using Dart, Firebase, and Streamlit.  
-🔗 [GitHub Repo](https://github.com/Nakulan12/ecotracker)
-
----
-
-### 💼 **HerVoice Platform**  
+### 💼 **HerVoice **  
 A voice-based empowerment platform for marginalized women, including offline support and multilingual UI.  
-🔗 [GitHub Repo](https://github.com/Nakulan12/hervoiceplatform)
+🔗 [GitHub Repo](https://github.com/Nakulan12/hervoice-slytherin)
 
 ---
 
@@ -90,17 +79,5 @@ I'm always open to working on **real-time projects** and participating in **hack
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulan12&layout=compact&theme=dark" width="45%" />
 </p>
-
----
-
-## 🎨 **Creative Footer**  
-<pre>
-   ____________________________________________________
-  |  "Code is like humor. When you have to explain it,  |
-  |     it’s bad." - Cory House                       |
-  |                                                    |
-  |     Powered by **Code**, **Creativity**, and **Coffee**.   |
-  |____________________________________________________|
-</pre>
 
 ---
