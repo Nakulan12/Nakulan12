@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="blob:https://web.whatsapp.com/e58376b9-2897-4c2f-987c-83f4853bb16f" alt="Nakulan's Banner" width="75%"/>
+  <img src="https://www.canva.com/design/DAGmFzI6YzE/S8SxP9ZEiQwEfhpTaE-VwA/view?utm_content=DAGmFzI6YzE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h57a05cc218" alt="Nakulan's Banner" width="75%"/>
 </p>
 
 
