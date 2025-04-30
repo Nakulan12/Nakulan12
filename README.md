@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nakulan12/Nakulan12/main/assets/banner.gif" alt="Nakulan's Banner" width="100%"/>
+  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-4ab0-6230-a62b-12d456dd7b1e/raw?se=2025-04-30T08%3A15%3A19Z&sp=r&sv=2024-08-04&sr=b&scid=94662318-c409-577b-ad1f-44eac17db1a6&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-30T04%3A46%3A13Z&ske=2025-05-01T04%3A46%3A13Z&sks=b&skv=2024-08-04&sig=iIPvEcqRImQmV2nxxCrz5vYRDznABx%2BgW9SBTq8zBb8%3D" alt="Nakulan's Banner" width="100%"/>
 </p>
 
 
