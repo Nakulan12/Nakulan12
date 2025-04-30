@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGmFzI6YzE/S8SxP9ZEiQwEfhpTaE-VwA/view?utm_content=DAGmFzI6YzE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h57a05cc218" alt="Nakulan's Banner" width="75%"/>
+  <img src""C:\Users\NAKULAN\banner.png"" alt="Nakulan's Banner" width="75%"/>
 </p>
 
 
