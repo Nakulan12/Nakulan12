@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src""C:\Users\NAKULAN\banner.png"" alt="Nakulan's Banner" width="75%"/>
+  <img src"file:///C:/Users/NAKULAN/banner.png" alt="Nakulan's Banner" width="75%"/>
 </p>
 
 
