@@ -1,6 +1,7 @@
-![Profile Banner](https://raw.githubusercontent.com/Nakulan12/Nakulan12/main/assets/banner.svg)
+![Header SVG](https://via.placeholder.com/1200x400.png?text=Nakulan+R+%7C+Software+Systems+Student+%7C+Developer+%7C+AI+Enthusiast)
 
 # Hi there, I'm Nakulan R 👋
+### Software Systems Student | Aspiring Web Developer  | UI/UX Enthusiast
 
 I'm a **Software Systems student** at **Sri Krishna Arts and Science College**. My goal is to develop impactful applications and software that can help solve real-world problems. I am passionate about exploring new technologies and using them to create innovative solutions. I believe that the future of technology lies in making it accessible and impactful for everyone.
 
@@ -35,10 +36,9 @@ An **AI-powered digital platform** designed to uplift marginalized women by prom
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakulan-r-92ab31339)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:nakulanr307@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NakulanR)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/nakulanr307?t=edjjkrsYiEhXThlNhKXpAA&s=08)
 
 ## 📜 Quote
-_"The best way to predict the future is to create it." - Peter Drucker_
+_"The only way to do great work is to love what you do." - Steve Jobs_
 
-![Footer Banner](https://raw.githubusercontent.com/Nakulan12/Nakulan12/main/assets/footer.svg)
-
+![Footer SVG](https://via.placeholder.com/1200x100.png?text=Thank+You+For+Visiting+My+Profile)
