@@ -1,7 +1,10 @@
 # Project Header
-![Image](https://sdmntprwestus.oaiusercontent.com/files/00000000-d900-6230-a801-49e1df45d05d/raw?se=2025-05-02T20%3A54%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=77be2666-d091-5174-a63e-c5b3699ad9cc&skoid=4ae7b564-2531-470e-8ddb-6913f4bee2ee&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-02T11%3A33%3A38Z&ske=2025-05-03T11%3A33%3A38Z&sks=b&skv=2024-08-04&sig=72%2BOeVd0x58gGMKxR/Bqf0lNUnKCEfhes22X/zg1qtg%3D)
+<h1>Project Header</h1>
+<img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-d900-6230-a801-49e1df45d05d/raw?se=2025-05-02T20%3A54%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=77be2666-d091-5174-a63e-c5b3699ad9cc&skoid=4ae7b564-2531-470e-8ddb-6913f4bee2ee&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-02T11%3A33%3A38Z&ske=2025-05-03T11%3A33%3A38Z&sks=b&skv=2024-08-04&sig=72%2BOeVd0x58gGMKxR/Bqf0lNUnKCEfhes22X/zg1qtg%3D" alt="Project Banner" width="60%" />
 
-![Header SVG](https://via.placeholder.com/1200x400.png?text=Aspiring+Web+Developer+%7C+UI%2FUX+Enthusiast)
+
+![Typing Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Aspiring+Web+Developer;UI%2FUX+Enthusiast)
+
 
 
 # Hi there, I'm Nakulan R 👋
@@ -43,4 +46,5 @@ An **AI-powered digital platform** designed to uplift marginalized women by prom
 [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/nakulanr307?t=edjjkrsYiEhXThlNhKXpAA&s=08)
 
 ## 📜 Quote
-![Steve Jobs Quote](https://sdmntprwestus.oaiusercontent.com/files/00000000-73d8-6230-8964-c1a165cdffa0/raw?se=2025-05-02T20%3A59%3A17Z&sp=r&sv=2024-08-04&sr=b&scid=f34b0513-1fe0-584a-a76a-5936ee3eee78&skoid=4ae7b564-2531-470e-8ddb-6913f4bee2ee&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-02T10%3A17%3A33Z&ske=2025-05-03T10%3A17%3A33Z&sks=b&skv=2024-08-04&sig=/qbonXxu4hC%2BbiiO%2BKjsiW8Lhu868cYm56VuRinDBDc%3D)
+![Steve Jobs Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;-+Steve+Jobs)
+
