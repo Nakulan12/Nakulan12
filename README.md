@@ -20,8 +20,7 @@ I’m **Nakulan R**, a **tech enthusiast** from Sri Krishna Arts and Science Col
 
 🌱 **Currently Learning**:
 - Flutter Animations  
-- Firebase Authentication & Firestore  
-- UI/UX principles for mobile platforms  
+- Firebase Authentication
 
 ---
 
