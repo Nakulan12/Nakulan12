@@ -1,1 +1,44 @@
+![Profile Banner](https://raw.githubusercontent.com/Nakulan12/Nakulan12/main/assets/banner.svg)
+
+# Hi there, I'm Nakulan R 👋
+
+I'm a **Software Systems student** at **Sri Krishna Arts and Science College**. My goal is to develop impactful applications and software that can help solve real-world problems. I am passionate about exploring new technologies and using them to create innovative solutions. I believe that the future of technology lies in making it accessible and impactful for everyone.
+
+I am working on enhancing my skills in **web and app development**, and I aspire to contribute to the tech world by creating solutions that positively impact society.
+
+## 🔧 Technologies & Tools
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+### Technologies
+![AI](https://img.shields.io/badge/AI-FF4500?style=flat&logo=python&logoColor=white) ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-FF9900?style=flat&logo=cloud&logoColor=white)
+
+## 🚀 Projects
+
+### [HerVoice](https://github.com/Nakulan12/hervoice-slytherin)
+An **AI-powered digital platform** designed to uplift marginalized women by promoting **digital literacy**, **skill development**, and **self-reliance**.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakulan12&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulan12&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nakulan12&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nakulan12&theme=radical&no-frame=true)
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakulan-r-92ab31339)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:nakulanr307@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NakulanR)
+
+## 📜 Quote
+_"The best way to predict the future is to create it." - Peter Drucker_
+
+![Footer Banner](https://raw.githubusercontent.com/Nakulan12/Nakulan12/main/assets/footer.svg)
 
