@@ -34,6 +34,7 @@ An **AI-powered digital platform** designed to uplift marginalized women by prom
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakulan12&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulan12&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nakulan12&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Nakulan12&label=Profile%20views&color=0A66C2&style=flat)
 ![Nakulan R's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nakulan12&theme=react-dark&hide_border=true&area=true)
 
 
