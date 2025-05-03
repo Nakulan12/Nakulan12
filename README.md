@@ -14,11 +14,6 @@ I am working on enhancing my skills in **web and app development**, and I aspire
 Check out my portfolio: [Portfolio](https://nakulan.lovable.app/)
 
 
-<!-- Optional Typing Animation -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&background=0A66C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+Nakulan's+GitHub!;Thanks+for+visiting!;Hope+you+find+something+cool+💡" />
-</div>
-
 
 ## 🔧 Technologies & Tools
 
