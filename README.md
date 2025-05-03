@@ -68,7 +68,8 @@ An **AI-powered digital platform** designed to uplift marginalized women by prom
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakulan-r-92ab31339)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:nakulanr307@gmail.com)
-
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919842887813)  
+[![X Profile](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/nakulanr307?t=edjjkrsYiEhXThlNhKXpAA&s=08)
 
 
 ## 📜 Quote
