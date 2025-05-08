@@ -11,7 +11,7 @@
 I'm a **Software Systems student** at **Sri Krishna Arts and Science College**. My goal is to develop impactful applications and software that can help solve real-world problems. I am passionate about exploring new technologies and using them to create innovative solutions. I believe that the future of technology lies in making it accessible and impactful for everyone.
 
 I am working on enhancing my skills in **web and app development**, and I aspire to contribute to the tech world by creating solutions that positively impact society.
-Check out my portfolio: [Portfolio](https://nakulan.lovable.app/)
+Check out my portfolio: [Portfolio](https://nakulan.netlify.app/)
 
 
 
