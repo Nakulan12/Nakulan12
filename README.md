@@ -1,7 +1,4 @@
 
-Check out my portfolio: [Portfolio](https://nakulan.netlify.app/)
-
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakulan12&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
