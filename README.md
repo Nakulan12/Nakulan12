@@ -58,9 +58,6 @@
   <a href="https://www.linkedin.com/in/nakulan-r-92ab31339">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="tel:+919842887813">
-    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call Badge" />
-  </a>
   <a href="https://wa.me/919842887813">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
   </a>
