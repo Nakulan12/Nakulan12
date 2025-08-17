@@ -1,10 +1,5 @@
 <!-- 🌟 Premium Golden Animated GitHub Profile -->
 
-<!-- Banner (host your own image later for reliability) -->
-<p align="center">
-  <img src="https://i.ibb.co/kH5jvL5/golden-banner.gif" alt="Golden Banner" width="100%" />
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img
