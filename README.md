@@ -1,11 +1,11 @@
-<!-- 🌟 Premium Golden Animated GitHub Profile -->
+<!-- 🌟 Golden GitHub Profile README -->
 
-<!-- Typing Animation -->
+<!-- Animated Welcome Text -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=800&lines=Welcome+to+Nakulan's+GitHub!;Thanks+for+visiting!;Hope+you+find+something+amazing+💡"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Welcome+to+Nakulan%27s+GitHub!;Thanks+for+visiting!;Hope+you+find+something+amazing+%F0%9F%92%A1"
     alt="Typing Animation"
-/>
+  />
 </p>
 
 ---
@@ -13,21 +13,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Nakulan12&show_icons=true&include_all_commits=true&count_private=true&hide=prs&hide_title=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api?username=Nakulan12&show_icons=true&count_private=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000"
     alt="GitHub Stats"
     width="48%"
   />
-  <!-- Streak -->
   <img
-    src="https://streak-stats.demolab.com?user=Nakulan12&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Nakulan12&theme=radical&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=000000"
     alt="GitHub Streak"
     width="48%"
   />
 </p>
 
-<!-- Activity Graph (uses public instance) -->
+---
+
+## 📈 Contribution Graph  
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Nakulan12&bg_color=000000&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true&custom_title=✨%20Golden%20Contribution%20Graph"
@@ -38,49 +39,37 @@
 
 ---
 
-## 🧠 Most Used Languages
+## 🧠 Most Used Languages  
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulan12&layout=compact&langs_count=10&theme=dark&title_color=FFD700&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulan12&layout=compact&theme=radical&title_color=FFD700&text_color=FFD700&bg_color=000000"
     alt="Top Languages"
   />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Nakulan12&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"
+    src="https://github-profile-trophy.vercel.app/?username=Nakulan12&theme=matrix&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"
     alt="GitHub Trophies"
   />
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,figma,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,figma,git,github&perline=6" alt="Tech Icons"/>
 </p>
 
 ---
 
-## 📈 GitHub Profile Summary
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakulan12&theme=solarized&title_color=FFD700&text_color=FFD700"
-    alt="Profile Summary Card"
-  />
-</p>
-
-
----
-
-## 👁️‍🗨️ Profile Views
+## 👁️‍🗨️ Profile Views  
 
 <div align="center">
   <img
@@ -95,8 +84,7 @@
 
 ---
 
-
-## 📬 Connect with Me
+## 📬 Connect with Me  
 
 <p align="center">
   <a href="mailto:nakulanr307@gmail.com">
@@ -108,18 +96,17 @@
   <a href="https://wa.me/919842887813">
     <img src="https://img.shields.io/badge/WhatsApp-FFD700?style=for-the-badge&logo=whatsapp&logoColor=000000" alt="WhatsApp Badge" />
   </a>
-  <a href="https://x.com/nakulanr307?t=edjjkrsYiEhXThlNhKXpAA&s=08">
+  <a href="https://x.com/nakulanr307">
     <img src="https://img.shields.io/badge/X-FFD700?style=for-the-badge&logo=x&logoColor=000000" alt="X Badge" />
   </a>
 </p>
 
 ---
 
-
-<!-- Closing Quote -->
+<!-- Ending Quote Animation -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;-+Steve+Jobs"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;-+Steve+Jobs"
     alt="Quote Typing Animation"
-/>
+  />
 </p>
